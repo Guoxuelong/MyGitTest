@@ -1,26 +1,26 @@
 {
-    "reason": "²éÑ¯³É¹¦",
+    "reason": "OK",
     "result": {
-        "title": "NBA2014-2015Èü¼¾_³£¹æÈüÈü³ÌÈü¹û",
+        "title": "NBA2014-2015èµ›å­£_å¸¸è§„èµ›èµ›ç¨‹èµ›æœ",
         "statuslist": {
-            "st0": "Î´¿ªÈü",
-            "st1": "Ö±²¥ÖĞ",
-            "st2": "ÒÑ½áÊø"
+            "st0": "æœªå¼€èµ›",
+            "st1": "ç›´æ’­ä¸­",
+            "st2": "å·²ç»“æŸ"
         },
         "list": [
             {
-                "title": "12-07 ÖÜÈÕ",
+                "title": "12-07 å‘¨æ—¥",
                 "tr": [
                     {
-                        "link1text": "ÊÓÆµ¼¯½õ",
+                        "link1text": "è§†é¢‘é›†é”¦",
                         "link1url": "http://video.sina.com.cn/p/sports/k/v/2014-12-07/140064340433.html",
-                        "link2text": "¼¼ÊõÍ³¼Æ",
+                        "link2text": "æŠ€æœ¯ç»Ÿè®¡",
                         "link2url": "http://nba.sports.sina.com.cn/look_scores.php?id=2014120608",
-                        "player1": "76ÈË",
+                        "player1": "76äºº",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/20.png",
                         "player1logobig": "http://p4.qhimg.com/t01d3db357326a5f9b7.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=20",
-                        "player2": "»îÈû",
+                        "player2": "æ´»å¡",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/8.png",
                         "player2logobig": "http://p4.qhimg.com/t014bc2a39f1ff5a13a.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=8",
@@ -29,15 +29,15 @@
                         "time": "12/07 08:30"
                     },
                     {
-                        "link1text": "ÊÓÆµ¼¯½õ",
+                        "link1text": "è§†é¢‘é›†é”¦",
                         "link1url": "http://video.sina.com.cn/p/sports/k/v/2014-12-07/122964340177.html",
-                        "link2text": "¼¼ÊõÍ³¼Æ",
+                        "link2text": "æŠ€æœ¯ç»Ÿè®¡",
                         "link2url": "http://nba.sports.sina.com.cn/look_scores.php?id=2014120604",
-                        "player1": "ÓÂÊ¿",
+                        "player1": "å‹‡å£«",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/9.png",
                         "player1logobig": "http://p7.qhimg.com/t01d2065c2ad5a47937.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=9",
-                        "player2": "¹«Å£",
+                        "player2": "å…¬ç‰›",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/4.png",
                         "player2logobig": "http://p6.qhimg.com/t01be4b73bdda7dbb0b.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=4",
@@ -46,15 +46,15 @@
                         "time": "12/07 09:00"
                     },
                     {
-                        "link1text": "ÊÓÆµ¼¯½õ",
+                        "link1text": "è§†é¢‘é›†é”¦",
                         "link1url": "http://video.sina.com.cn/z/sports/k/nba/141207phxhou/",
-                        "link2text": "¼¼ÊõÍ³¼Æ",
+                        "link2text": "æŠ€æœ¯ç»Ÿè®¡",
                         "link2url": "http://nba.sports.sina.com.cn/look_scores.php?id=2014120610",
-                        "player1": "Ì«Ñô",
+                        "player1": "å¤ªé˜³",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/21.png",
                         "player1logobig": "http://p5.qhimg.com/t010dda40063e994c77.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=21",
-                        "player2": "»ğ¼ı",
+                        "player2": "ç«ç®­",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/10.png",
                         "player2logobig": "http://p5.qhimg.com/t015ca41a7ba9c358b6.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=10",
@@ -63,15 +63,15 @@
                         "time": "12/07 09:00"
                     },
                     {
-                        "link1text": "ÊÓÆµ¼¯½õ",
+                        "link1text": "è§†é¢‘é›†é”¦",
                         "link1url": "http://video.sina.com.cn/p/sports/k/v/2014-12-07/134864340393.html",
-                        "link2text": "¼¼ÊõÍ³¼Æ",
+                        "link2text": "æŠ€æœ¯ç»Ÿè®¡",
                         "link2url": "http://nba.sports.sina.com.cn/look_scores.php?id=2014120624",
-                        "player1": "É­ÁÖÀÇ",
+                        "player1": "æ£®æ—ç‹¼",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/16.png",
                         "player1logobig": "http://p2.qhimg.com/t01a05379822b554e07.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=16",
-                        "player2": "Âí´Ì",
+                        "player2": "é©¬åˆº",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/24.png",
                         "player2logobig": "http://p8.qhimg.com/t019450aafe5d71656d.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=24",
@@ -80,15 +80,15 @@
                         "time": "12/07 09:30"
                     },
                     {
-                        "link1text": "ÊÓÆµ¼¯½õ",
+                        "link1text": "è§†é¢‘é›†é”¦",
                         "link1url": "http://video.sina.com.cn/p/sports/k/v/2014-12-07/144764340623.html",
-                        "link2text": "¼¼ÊõÍ³¼Æ",
+                        "link2text": "æŠ€æœ¯ç»Ÿè®¡",
                         "link2url": "http://nba.sports.sina.com.cn/look_scores.php?id=2014120623",
-                        "player1": "Ä§Êõ",
+                        "player1": "é­”æœ¯",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/19.png",
                         "player1logobig": "http://p5.qhimg.com/t0167317f2b1249e741.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=19",
-                        "player2": "¹úÍõ",
+                        "player2": "å›½ç‹",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/23.png",
                         "player2logobig": "http://p7.qhimg.com/t018d78076cc925f692.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=23",
@@ -97,15 +97,15 @@
                         "time": "12/07 11:00"
                     },
                     {
-                        "link1text": "ÊÓÆµ¼¯½õ",
+                        "link1text": "è§†é¢‘é›†é”¦",
                         "link1url": "http://video.sina.com.cn/z/sports/k/nba/141207noplac/",
-                        "link2text": "¼¼ÊõÍ³¼Æ",
+                        "link2text": "æŠ€æœ¯ç»Ÿè®¡",
                         "link2url": "http://nba.sports.sina.com.cn/look_scores.php?id=2014120612",
-                        "player1": "ğÃğÉ",
+                        "player1": "é¹ˆé¹•",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/3.png",
                         "player1logobig": "http://p5.qhimg.com/t01d4114e4e03806e71.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=3",
-                        "player2": "¿ì´¬",
+                        "player2": "å¿«èˆ¹",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/12.png",
                         "player2logobig": "http://p6.qhimg.com/t0198ca8635a51d759d.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=12",
@@ -116,76 +116,76 @@
                 ],
                 "bottomlink": [
                     {
-                        "text": "³£¹æÈüÈü³Ì",
+                        "text": "å¸¸è§„èµ›èµ›ç¨‹",
                         "url": "http://nba.sports.sina.com.cn/match_result.php"
                     },
                     {
-                        "text": "µçÊÓ×ª²¥±í",
+                        "text": "ç”µè§†è½¬æ’­è¡¨",
                         "url": "http://nba.sports.sina.com.cn/showtv.php?"
                     },
                     {
-                        "text": "Çò¶ÓÅÅÃû",
+                        "text": "çƒé˜Ÿæ’å",
                         "url": "http://nba.sports.sina.com.cn/league_order.php?"
                     },
                     {
-                        "text": "ÇòÔ±ÅÅÃû",
+                        "text": "çƒå‘˜æ’å",
                         "url": "http://nba.sports.sina.com.cn/playerstats.php?"
                     }
                 ]
             },
             {
-                "title": "12-08 ½ñÈÕ",
+                "title": "12-08 ä»Šæ—¥",
                 "live": [
                     {
                         "date": "2014-12-08",
                         "liveurl": "http://video.sina.com.cn/l/pl/sportstv/1691558.html",
-                        "player1": "ğÃğÉ",
-                        "player1info": "Ê¤8¸º10-Î÷²¿11Ãû",
-                        "player1location": "(¿Í)",
+                        "player1": "é¹ˆé¹•",
+                        "player1info": "èƒœ8è´Ÿ10-è¥¿éƒ¨11å",
+                        "player1location": "(å®¢)",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/3.png",
                         "player1logobig": "http://p5.qhimg.com/t01d4114e4e03806e71.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=3",
-                        "player2": "ºşÈË",
-                        "player2info": "Ê¤5¸º15-Î÷²¿14Ãû",
-                        "player2location": "(Ö÷)",
+                        "player2": "æ¹–äºº",
+                        "player2info": "èƒœ5è´Ÿ15-è¥¿éƒ¨14å",
+                        "player2location": "(ä¸»)",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/13.png",
                         "player2logobig": "http://p3.qhimg.com/t01f3bf12583c6c0c67.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=13",
                         "score": "VS",
                         "status": 0,
-                        "title": "½ñÈÕÈÈÃÅ  10:30¿ªÈü"
+                        "title": "ä»Šæ—¥çƒ­é—¨  10:30å¼€èµ›"
                     }
                 ],
                 "livelink": [
                     {
-                        "text": "ÊÓÆµÖ±²¥",
+                        "text": "è§†é¢‘ç›´æ’­",
                         "url": "http://video.sina.com.cn/l/pl/sportstv/1691558.html",
                         "videoicon": "1"
                     },
                     {
-                        "text": "ÎÄ×ÖÖ±²¥",
+                        "text": "æ–‡å­—ç›´æ’­",
                         "url": "http://sports.sina.com.cn/nba/live.html?id=2014120713"
                     },
                     {
-                        "text": "½»Õ½ÀúÊ·",
+                        "text": "äº¤æˆ˜å†å²",
                         "url": "http://match.sports.sina.com.cn/index.html#type=compare"
                     },
                     {
-                        "text": "¼¼ÊõÍ³¼Æ",
+                        "text": "æŠ€æœ¯ç»Ÿè®¡",
                         "url": "http://nba.sports.sina.com.cn/look_scores.php?id=2014120713"
                     }
                 ],
                 "tr": [
                     {
-                        "link1text": "ÎÄ×ÖÖ±²¥",
+                        "link1text": "æ–‡å­—ç›´æ’­",
                         "link1url": "http://sports.sina.com.cn/nba/live.html?id=2014120706",
-                        "link2text": "¼¼ÊõÍ³¼Æ",
+                        "link2text": "æŠ€æœ¯ç»Ÿè®¡",
                         "link2url": "http://nba.sports.sina.com.cn/look_scores.php?id=2014120706",
-                        "player1": "ĞÛÂ¹",
+                        "player1": "é›„é¹¿",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/15.png",
                         "player1logobig": "http://p0.qhimg.com/t01516f7685ada2de4b.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=15",
-                        "player2": "Ğ¡Å£",
+                        "player2": "å°ç‰›",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/6.png",
                         "player2logobig": "http://p2.qhimg.com/t01e2e3119877390c57.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=6",
@@ -194,15 +194,15 @@
                         "time": "12/08 08:30"
                     },
                     {
-                        "link1text": "ÎÄ×ÖÖ±²¥",
+                        "link1text": "æ–‡å­—ç›´æ’­",
                         "link1url": "http://sports.sina.com.cn/nba/live.html?id=2014120718",
-                        "link2text": "¼¼ÊõÍ³¼Æ",
+                        "link2text": "æŠ€æœ¯ç»Ÿè®¡",
                         "link2url": "http://nba.sports.sina.com.cn/look_scores.php?id=2014120718",
-                        "player1": "¿ªÍØÕß",
+                        "player1": "å¼€æ‹“è€…",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/22.png",
                         "player1logobig": "http://p2.qhimg.com/t019d57825e72f97659.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=22",
-                        "player2": "Äá¿ËË¹",
+                        "player2": "å°¼å…‹æ–¯",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/18.png",
                         "player2logobig": "http://p8.qhimg.com/t01c1b964d5b59a9a78.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=18",
@@ -211,15 +211,15 @@
                         "time": "12/08 08:30"
                     },
                     {
-                        "link1text": "ÊÓÆµ¼¯½õ",
+                        "link1text": "è§†é¢‘é›†é”¦",
                         "link1url": "http://video.sina.com.cn/p/sports/k/v/2014-12-08/085464343137.html",
-                        "link2text": "¼¼ÊõÍ³¼Æ",
+                        "link2text": "æŠ€æœ¯ç»Ÿè®¡",
                         "link2url": "http://nba.sports.sina.com.cn/look_scores.php?id=2014120702",
-                        "player1": "Ææ²Å",
+                        "player1": "å¥‡æ‰",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/27.png",
                         "player1logobig": "http://p4.qhimg.com/t01eee508ed62bff361.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=27",
-                        "player2": "¿­¶ûÌØÈË",
+                        "player2": "å‡¯å°”ç‰¹äºº",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/2.png",
                         "player2logobig": "http://p8.qhimg.com/t018286fc21467c2a06.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=2",
@@ -228,15 +228,15 @@
                         "time": "12/08 02:00"
                     },
                     {
-                        "link1text": "ÊÓÆµ¼¯½õ",
+                        "link1text": "è§†é¢‘é›†é”¦",
                         "link1url": "http://video.sina.com.cn/p/sports/k/v/2014-12-08/093664343241.html",
-                        "link2text": "¼¼ÊõÍ³¼Æ",
+                        "link2text": "æŠ€æœ¯ç»Ÿè®¡",
                         "link2url": "http://nba.sports.sina.com.cn/look_scores.php?id=2014120701",
-                        "player1": "¾ò½ğ",
+                        "player1": "æ˜é‡‘",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/7.png",
                         "player1logobig": "http://p3.qhimg.com/t01496ad82fd55c5e3e.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=7",
-                        "player2": "ÀÏÓ¥",
+                        "player2": "è€é¹°",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/1.png",
                         "player2logobig": "http://p7.qhimg.com/t01b62fc6cc93d24575.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=1",
@@ -245,15 +245,15 @@
                         "time": "12/08 04:30"
                     },
                     {
-                        "link1text": "Ö±²¥ÊµÂ¼",
+                        "link1text": "ç›´æ’­å®å½•",
                         "link1url": "http://sports.sina.com.cn/nba/live.html?id=2014120729",
-                        "link2text": "¼¼ÊõÍ³¼Æ",
+                        "link2text": "æŠ€æœ¯ç»Ÿè®¡",
                         "link2url": "http://nba.sports.sina.com.cn/look_scores.php?id=2014120729",
-                        "player1": "ÈÈ»ğ",
+                        "player1": "çƒ­ç«",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/14.png",
                         "player1logobig": "http://p7.qhimg.com/t0157f207551f094017.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=14",
-                        "player2": "»ÒĞÜ",
+                        "player2": "ç°ç†Š",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/29.png",
                         "player2logobig": "http://p7.qhimg.com/t01443a5528019e9f64.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=29",
@@ -262,15 +262,15 @@
                         "time": "12/08 07:00"
                     },
                     {
-                        "link1text": "Ö±²¥ÊµÂ¼",
+                        "link1text": "ç›´æ’­å®å½•",
                         "link1url": "http://sports.sina.com.cn/nba/live.html?id=2014120708",
-                        "link2text": "¼¼ÊõÍ³¼Æ",
+                        "link2text": "æŠ€æœ¯ç»Ÿè®¡",
                         "link2url": "http://nba.sports.sina.com.cn/look_scores.php?id=2014120708",
-                        "player1": "À×öª",
+                        "player1": "é›·éœ†",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/25.png",
                         "player1logobig": "http://p7.qhimg.com/t01ebd550dabdf9e9e2.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=25",
-                        "player2": "»îÈû",
+                        "player2": "æ´»å¡",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/8.png",
                         "player2logobig": "http://p4.qhimg.com/t014bc2a39f1ff5a13a.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=8",
@@ -279,15 +279,15 @@
                         "time": "12/08 07:00"
                     },
                     {
-                        "link1text": "ÊÓÆµÖ±²¥",
+                        "link1text": "è§†é¢‘ç›´æ’­",
                         "link1url": "http://video.sina.com.cn/l/pl/sportstv/1691558.html",
-                        "link2text": "½»Õ½ÀúÊ·",
+                        "link2text": "äº¤æˆ˜å†å²",
                         "link2url": "http://match.sports.sina.com.cn/index.html#type=compare",
-                        "player1": "ğÃğÉ",
+                        "player1": "é¹ˆé¹•",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/3.png",
                         "player1logobig": "http://p5.qhimg.com/t01d4114e4e03806e71.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=3",
-                        "player2": "ºşÈË",
+                        "player2": "æ¹–äºº",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/13.png",
                         "player2logobig": "http://p3.qhimg.com/t01f3bf12583c6c0c67.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=13",
@@ -299,36 +299,36 @@
                 ],
                 "bottomlink": [
                     {
-                        "text": "³£¹æÈüÈü³Ì",
+                        "text": "å¸¸è§„èµ›èµ›ç¨‹",
                         "url": "http://nba.sports.sina.com.cn/match_result.php"
                     },
                     {
-                        "text": "µçÊÓ×ª²¥±í",
+                        "text": "ç”µè§†è½¬æ’­è¡¨",
                         "url": "http://nba.sports.sina.com.cn/showtv.php?"
                     },
                     {
-                        "text": "Çò¶ÓÅÅÃû",
+                        "text": "çƒé˜Ÿæ’å",
                         "url": "http://nba.sports.sina.com.cn/league_order.php?"
                     },
                     {
-                        "text": "ÇòÔ±ÅÅÃû",
+                        "text": "çƒå‘˜æ’å",
                         "url": "http://nba.sports.sina.com.cn/playerstats.php?"
                     }
                 ]
             },
             {
-                "title": "12-09 ÖÜ¶ş",
+                "title": "12-09 å‘¨äºŒ",
                 "tr": [
                     {
-                        "link1text": "ÎÄ×ÖÖ±²¥",
+                        "link1text": "æ–‡å­—ç›´æ’­",
                         "link1url": "http://sports.sina.com.cn/nba/live.html?id=2014120811",
-                        "link2text": "½»Õ½ÀúÊ·",
+                        "link2text": "äº¤æˆ˜å†å²",
                         "link2url": "http://match.sports.sina.com.cn/index.html#type=compare",
-                        "player1": "ÀÏÓ¥",
+                        "player1": "è€é¹°",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/1.png",
                         "player1logobig": "http://p7.qhimg.com/t01b62fc6cc93d24575.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=1",
-                        "player2": "²½ĞĞÕß",
+                        "player2": "æ­¥è¡Œè€…",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/11.png",
                         "player2logobig": "http://p2.qhimg.com/t0159f5d9acc67d38ee.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=11",
@@ -337,15 +337,15 @@
                         "time": "12/09 08:00"
                     },
                     {
-                        "link1text": "ÎÄ×ÖÖ±²¥",
+                        "link1text": "æ–‡å­—ç›´æ’­",
                         "link1url": "http://sports.sina.com.cn/nba/live.html?id=2014120827",
-                        "link2text": "½»Õ½ÀúÊ·",
+                        "link2text": "äº¤æˆ˜å†å²",
                         "link2url": "http://match.sports.sina.com.cn/index.html#type=compare",
-                        "player1": "¿­¶ûÌØÈË",
+                        "player1": "å‡¯å°”ç‰¹äºº",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/2.png",
                         "player1logobig": "http://p8.qhimg.com/t018286fc21467c2a06.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=2",
-                        "player2": "Ææ²Å",
+                        "player2": "å¥‡æ‰",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/27.png",
                         "player2logobig": "http://p4.qhimg.com/t01eee508ed62bff361.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=27",
@@ -354,15 +354,15 @@
                         "time": "12/09 08:00"
                     },
                     {
-                        "link1text": "ÊÓÆµÖ±²¥",
+                        "link1text": "è§†é¢‘ç›´æ’­",
                         "link1url": "http://video.sina.com.cn/l/pl/sportstv/1691559.html",
-                        "link2text": "½»Õ½ÀúÊ·",
+                        "link2text": "äº¤æˆ˜å†å²",
                         "link2url": "http://match.sports.sina.com.cn/index.html#type=compare",
-                        "player1": "ÆïÊ¿",
+                        "player1": "éª‘å£«",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/5.png",
                         "player1logobig": "http://p5.qhimg.com/t014d6afcbfc0523b25.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=5",
-                        "player2": "ÀºÍø",
+                        "player2": "ç¯®ç½‘",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/17.png",
                         "player2logobig": "http://p6.qhimg.com/t01effe2e3564d04214.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=17",
@@ -372,15 +372,15 @@
                         "videoicon": "1"
                     },
                     {
-                        "link1text": "ÎÄ×ÖÖ±²¥",
+                        "link1text": "æ–‡å­—ç›´æ’­",
                         "link1url": "http://sports.sina.com.cn/nba/live.html?id=2014120828",
-                        "link2text": "½»Õ½ÀúÊ·",
+                        "link2text": "äº¤æˆ˜å†å²",
                         "link2url": "http://match.sports.sina.com.cn/index.html#type=compare",
-                        "player1": "¾ò½ğ",
+                        "player1": "æ˜é‡‘",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/7.png",
                         "player1logobig": "http://p3.qhimg.com/t01496ad82fd55c5e3e.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=7",
-                        "player2": "ÃÍÁú",
+                        "player2": "çŒ›é¾™",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/28.png",
                         "player2logobig": "http://p5.qhimg.com/t0117c8a58019b79351.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=28",
@@ -389,15 +389,15 @@
                         "time": "12/09 08:30"
                     },
                     {
-                        "link1text": "ÎÄ×ÖÖ±²¥",
+                        "link1text": "æ–‡å­—ç›´æ’­",
                         "link1url": "http://sports.sina.com.cn/nba/live.html?id=2014120816",
-                        "link2text": "½»Õ½ÀúÊ·",
+                        "link2text": "äº¤æˆ˜å†å²",
                         "link2url": "http://match.sports.sina.com.cn/index.html#type=compare",
-                        "player1": "ÓÂÊ¿",
+                        "player1": "å‹‡å£«",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/9.png",
                         "player1logobig": "http://p7.qhimg.com/t01d2065c2ad5a47937.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=9",
-                        "player2": "É­ÁÖÀÇ",
+                        "player2": "æ£®æ—ç‹¼",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/16.png",
                         "player2logobig": "http://p2.qhimg.com/t01a05379822b554e07.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=16",
@@ -406,15 +406,15 @@
                         "time": "12/09 09:00"
                     },
                     {
-                        "link1text": "ÎÄ×ÖÖ±²¥",
+                        "link1text": "æ–‡å­—ç›´æ’­",
                         "link1url": "http://sports.sina.com.cn/nba/live.html?id=2014120823",
-                        "link2text": "½»Õ½ÀúÊ·",
+                        "link2text": "äº¤æˆ˜å†å²",
                         "link2url": "http://match.sports.sina.com.cn/index.html#type=compare",
-                        "player1": "¾ôÊ¿",
+                        "player1": "çˆµå£«",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/26.png",
                         "player1logobig": "http://p3.qhimg.com/t01b5ae4c46d99097f5.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=26",
-                        "player2": "¹úÍõ",
+                        "player2": "å›½ç‹",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/23.png",
                         "player2logobig": "http://p7.qhimg.com/t018d78076cc925f692.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=23",
@@ -423,15 +423,15 @@
                         "time": "12/09 11:00"
                     },
                     {
-                        "link1text": "ÎÄ×ÖÖ±²¥",
+                        "link1text": "æ–‡å­—ç›´æ’­",
                         "link1url": "http://sports.sina.com.cn/nba/live.html?id=2014120812",
-                        "link2text": "½»Õ½ÀúÊ·",
+                        "link2text": "äº¤æˆ˜å†å²",
                         "link2url": "http://match.sports.sina.com.cn/index.html#type=compare",
-                        "player1": "Ì«Ñô",
+                        "player1": "å¤ªé˜³",
                         "player1logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/21.png",
                         "player1logobig": "http://p5.qhimg.com/t010dda40063e994c77.png",
                         "player1url": "http://nba.sports.sina.com.cn/team.php?id=21",
-                        "player2": "¿ì´¬",
+                        "player2": "å¿«èˆ¹",
                         "player2logo": "http://www.sinaimg.cn/ty/deco/2013/1108/nbalogo/12.png",
                         "player2logobig": "http://p6.qhimg.com/t0198ca8635a51d759d.png",
                         "player2url": "http://nba.sports.sina.com.cn/team.php?id=12",
@@ -442,19 +442,19 @@
                 ],
                 "bottomlink": [
                     {
-                        "text": "³£¹æÈüÈü³Ì",
+                        "text": "å¸¸è§„èµ›èµ›ç¨‹",
                         "url": "http://nba.sports.sina.com.cn/match_result.php"
                     },
                     {
-                        "text": "µçÊÓ×ª²¥±í",
+                        "text": "ç”µè§†è½¬æ’­è¡¨",
                         "url": "http://nba.sports.sina.com.cn/showtv.php?"
                     },
                     {
-                        "text": "Çò¶ÓÅÅÃû",
+                        "text": "çƒé˜Ÿæ’å",
                         "url": "http://nba.sports.sina.com.cn/league_order.php?"
                     },
                     {
-                        "text": "ÇòÔ±ÅÅÃû",
+                        "text": "çƒå‘˜æ’å",
                         "url": "http://nba.sports.sina.com.cn/playerstats.php?"
                     }
                 ]
@@ -462,123 +462,123 @@
         ],
         "teammatch": [
             {
-                "name": "ÀÏÓ¥",
+                "name": "è€é¹°",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=1"
             },
             {
-                "name": "¿­¶ûÌØÈË",
+                "name": "å‡¯å°”ç‰¹äºº",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=2"
             },
             {
-                "name": "É½Ã¨",
+                "name": "å±±çŒ«",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=30"
             },
             {
-                "name": "¹«Å£",
+                "name": "å…¬ç‰›",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=4"
             },
             {
-                "name": "ÆïÊ¿",
+                "name": "éª‘å£«",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=5"
             },
             {
-                "name": "Ğ¡Å£",
+                "name": "å°ç‰›",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=6"
             },
             {
-                "name": "¾ò½ğ",
+                "name": "æ˜é‡‘",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=7"
             },
             {
-                "name": "»îÈû",
+                "name": "æ´»å¡",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=8"
             },
             {
-                "name": "ÓÂÊ¿",
+                "name": "å‹‡å£«",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=9"
             },
             {
-                "name": "»ğ¼ı",
+                "name": "ç«ç®­",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=10"
             },
             {
-                "name": "²½ĞĞÕß",
+                "name": "æ­¥è¡Œè€…",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=11"
             },
             {
-                "name": "¿ì´¬",
+                "name": "å¿«èˆ¹",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=12"
             },
             {
-                "name": "ºşÈË",
+                "name": "æ¹–äºº",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=13"
             },
             {
-                "name": "»ÒĞÜ",
+                "name": "ç°ç†Š",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=29"
             },
             {
-                "name": "ÈÈ»ğ",
+                "name": "çƒ­ç«",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=14"
             },
             {
-                "name": "ĞÛÂ¹",
+                "name": "é›„é¹¿",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=15"
             },
             {
-                "name": "É­ÁÖÀÇ",
+                "name": "æ£®æ—ç‹¼",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=16"
             },
             {
-                "name": "ÀºÍø",
+                "name": "ç¯®ç½‘",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=17"
             },
             {
-                "name": "ğÃğÉ",
+                "name": "é¹ˆé¹•",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=3"
             },
             {
-                "name": "Äá¿ËË¹",
+                "name": "å°¼å…‹æ–¯",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=18"
             },
             {
-                "name": "Ä§Êõ",
+                "name": "é­”æœ¯",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=19"
             },
             {
-                "name": "76ÈË",
+                "name": "76äºº",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=20"
             },
             {
-                "name": "Ì«Ñô",
+                "name": "å¤ªé˜³",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=21"
             },
             {
-                "name": "¿ªÍØÕß",
+                "name": "å¼€æ‹“è€…",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=22"
             },
             {
-                "name": "¹úÍõ",
+                "name": "å›½ç‹",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=23"
             },
             {
-                "name": "Âí´Ì",
+                "name": "é©¬åˆº",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=24"
             },
             {
-                "name": "À×öª",
+                "name": "é›·éœ†",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=25"
             },
             {
-                "name": "ÃÍÁú",
+                "name": "çŒ›é¾™",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=28"
             },
             {
-                "name": "¾ôÊ¿",
+                "name": "çˆµå£«",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=26"
             },
             {
-                "name": "Ææ²Å",
+                "name": "å¥‡æ‰",
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=27"
             }
         ]
