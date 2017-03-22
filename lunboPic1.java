@@ -17,5 +17,5 @@
 				{
 					"pic5":"http://p1.bqimg.com/567571/21902a096fb7ce7a.jpg",
 				},
-			],
+			]
 }
