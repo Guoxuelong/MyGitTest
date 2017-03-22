@@ -123,5 +123,5 @@
                 "url": "http://nba.sports.sina.com.cn/team_match.php?id=27"
             }
         ]
-    },
+    }
 }
